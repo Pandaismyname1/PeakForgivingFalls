@@ -43,12 +43,11 @@ _ReSharper*/
 *.pidb.meta
 
 # BepInEx specific
-Thunderstore.toml
-thunderstore.toml
-icon.png
-README.md
-MANIFEST.json
 
 # OS specific
 .DS_Store
 Thumbs.db
+
+# Thunderstore specific
+Thunderstore_Publish/BepInEx/plugins/PeakForgivingFalls/*.dll
+*.zip

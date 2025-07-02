@@ -1,0 +1,9 @@
+{
+    "name": "PeakForgivingFalls",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Pandaismyname1/PeakForgivingFalls",
+    "description": "Allows you to hook into walls, resetting your momentum, and preventing fall damage.",
+    "dependencies": [
+        "BepInEx-BepInExPack_PEAK-5.4.2403"
+    ]
+}
